@@ -16,7 +16,7 @@ PassGuard is a simple python based password manager tool with the following feat
 - UI based password manager.
 - Authentication for login.
 - Generation of passwords ranging from 8 to 18 characters in length, consisting of letters, symbols, and numbers.
-- Storage of passwords along with respective website names and usernames.
+- Storage of passwords along with respective website names and usernames. Even once password is generated it will be stored in clipboard for usage.
 - Exporting stored passwords to a CSV file.
 - Sending an email to a configured email address.
 
