@@ -8,7 +8,7 @@
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
-- [Support Me](#support)
+- [Support Me](#support-me)
 
 ## Overview
 PassGuard is a simple python based password manager tool with the following features:
